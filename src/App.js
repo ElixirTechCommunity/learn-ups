@@ -2,6 +2,7 @@ import './App.css';
 import Footer from './components/Footer';
 import Front from './components/front';
 import Jumboster from './components/jumboster';
+import Resource from './components/resource';
 import Tittlebox from './components/tittlebox';
 
 function App() {
@@ -13,7 +14,9 @@ function App() {
       
       
       <Jumboster/>
-      <Tittlebox/><Footer />
+      <Tittlebox />
+      <Resource />
+      <Footer />
     </div>
 
 

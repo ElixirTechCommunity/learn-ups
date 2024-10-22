@@ -61,3 +61,11 @@
   font-size: 150px;
 }
 
+.box{
+  border: 0.5px solid black;
+  width:450px;
+  height:130px ;
+  background-color: rgb(236, 219, 161);
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
